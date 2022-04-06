@@ -47,8 +47,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Typescript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -83,8 +83,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
       </td>
       <td width="25%" align="center">
-        <span>C#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/csharp.svg">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
     </tr>
   </tbody>
