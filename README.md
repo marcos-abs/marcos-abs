@@ -31,6 +31,24 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Laravel</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
@@ -43,44 +61,44 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <span>JQuery</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <span>WordPress</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+        <span>SQLite</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sqlite.svg">
       </td>
       <td width="25%" align="center">
-        <span>Laravel</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="25%" align="center">
-        <span>WordPress</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
+        <span>Debian</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
       </td>
       <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+        <span>CentOS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/centos.svg">
       </td>
     </tr>
   </tbody>
