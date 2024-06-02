@@ -12,7 +12,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: Returning to college to complete my degree in Information Systems at the State University of Goiás - Brazil.
 
  
 
