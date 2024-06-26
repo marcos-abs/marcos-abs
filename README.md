@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently reading "Fundação" - Isaac Asimov and "Bobby Fischer en Cuba: Sus Viajes, Partidas Y Aventuras en la tierra de capablanca" - Miguel Sanchez y Jesus Suarez.
 
 :outbox_tray: 2022 Goals: Returning to college to complete my degree in Information Systems at the State University of Goiás - Brazil.
 
